@@ -9,7 +9,7 @@ assignees: ''
 
 ### Beschrijving
 
-*Schrijf hier een uitgebreide beschrijving van je project
+*Schrijf hier een uitgebreide beschrijving van je project*
 
 ### Acceptatiecriteria
 
