@@ -1,6 +1,6 @@
 ---
-name: Item
-about: Een feature of user story
+name: Issue description
+about: Adds an automatic description to the issue that is being made
 title: ''
 labels: ''
 assignees: ''
@@ -9,11 +9,11 @@ assignees: ''
 
 ### Beschrijving
 
-...
+*Schrijf hier een uitgebreide beschrijving van je project
 
 ### Acceptatiecriteria
 
-- [ ] ...
+- [ ] *Voeg hier je eigen acceptatiecriteria toe*
 
 ### Definition of Done
 
@@ -21,9 +21,8 @@ assignees: ''
 
 - [ ] Alle functionele documentatie betreffende het item is geschreven
 - [ ] Alle technische documentatie betreffende het item is geschreven
-- [ ] Na aanvraag van een review, wordt dit gedaan door een ander teamlid
+- [ ] Er is door een ander teamlid een review gedaan van het item
 - [ ] Unit tests en andere relevante tests zijn geschreven voor de gemaakte functionaliteit
 - [ ] Alle gemaakte tests slagen
-- [ ] De gemaakte functionaliteit voldoet aan de beschrijving bij het item op GitLab
 - [ ] De geschreven code voldoet aan de code-conventies besproken in de samenwerkingsafspraken
-- [ ] De gemaakte code moet gecommit zijn naar de Git repository
+- [ ] De gemaakte code is gecommit zijn naar de Git repository
