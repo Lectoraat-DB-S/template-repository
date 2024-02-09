@@ -15,6 +15,9 @@ De volgende dingen zien we graag in een README:
 	- Bestand beschrijving: Liefst zien we bovenaan elk bestand dat er een korte beschrijving staat van welke functies er in het bestand geprogrammeerd zijn.
 	- Variabele beschrijving:
 
+Een ReadMe schrijf je in Markdown. in de volgende link vind je wat voorbeelden over hoe je deze kunt stylen:
+https://github.com/lifeparticle/Markdown-Cheatsheet
+
 mocht je wat inspiratie willen kun je op de github hieronder even kijken.
 https://github.com/matiassingers/awesome-readme
 
